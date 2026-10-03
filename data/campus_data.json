@@ -1,0 +1,62 @@
+{
+  "survival_tips": [
+    {
+      "category": "3-Layer Clothing Rule",
+      "tip": "Layer 1: Thermal compression base (merino wool or polyester, avoid cotton). Layer 2: Thick fleece or wool sweater. Layer 3: Long windproof down coat (80%+ down rating, reaching knees)."
+    },
+    {
+      "category": "Footwear & Ice Walking",
+      "tip": "Never wear flat-soled sneakers on ice. Use boots with grooved rubber soles. Walk with a 'penguin shuffle': small steps, knees slightly bent, center of gravity shifted forward."
+    },
+    {
+      "category": "Indoor Radiator Dryness",
+      "tip": "Central heating (暖气) keeps dorm rooms at +22°C while outside is -25°C. Air humidity drops below 15%. Buy a 30 RMB ultrasonic humidifier immediately to prevent nosebleeds and dry cough."
+    },
+    {
+      "category": "Phone Battery in -20°C",
+      "tip": "Smartphones rapidly shut down outdoors in sub-zero weather. Keep your phone inside an inner coat pocket close to body heat with an active stick-on heat patch (暖宝宝)."
+    }
+  ],
+  "dining_halls": [
+    {
+      "name": "Central Dining Hall (丁香餐厅)",
+      "hours": "Breakfast: 06:30 - 08:30 | Lunch: 11:00 - 13:00 | Dinner: 16:45 - 19:00",
+      "halal": true,
+      "recommendation": "2nd Floor Halal window: Lanzhou Beef Noodles (牛肉拉面) & Cumin Lamb Skewers."
+    },
+    {
+      "name": "Undergraduate Dorm Canteen (学子餐厅)",
+      "hours": "Breakfast: 06:30 - 09:00 | Lunch: 11:00 - 13:30 | Dinner: 17:00 - 19:30",
+      "halal": false,
+      "recommendation": "1st Floor: Self-serve Spicy Hot Pot (麻辣烫) with fresh veggies & tofu."
+    },
+    {
+      "name": "East Campus Overseas Diner (留学生餐厅)",
+      "hours": "Lunch: 11:30 - 14:00 | Dinner: 17:30 - 21:00",
+      "halal": true,
+      "recommendation": "Bilingual menu, stir-fried rice, Halal chicken steak, and Western-style breakfast."
+    }
+  ],
+  "flashcards": [
+    {
+      "chinese": "师傅您好，请送我到学校西门。",
+      "pinyin": "Shīfu nínhǎo, qǐng sòng wǒ dào xuéxiào xīmén.",
+      "english": "Driver hello, please take me to the West Gate of campus."
+    },
+    {
+      "chinese": "您好，这道菜里面有猪肉吗？我不吃猪肉。",
+      "pinyin": "Nínhǎo, zhè dào cài lǐmiàn yǒu zhūròu ma? Wǒ bù chī zhūròu.",
+      "english": "Hello, does this dish contain pork? I do not eat pork."
+    },
+    {
+      "chinese": "请少放辣椒，谢谢！",
+      "pinyin": "Qǐng shǎo fàng làjiāo, xièxie!",
+      "english": "Please make it mild / put less chili pepper, thank you!"
+    },
+    {
+      "chinese": "请问留学生事务办公室在哪个楼层？",
+      "pinyin": "Qǐngwèn liúxuéshēng shìwù bàngōngshì zài nǎge lóucéng?",
+      "english": "Excuse me, on which floor is the International Students Office?"
+    }
+  ]
+}
